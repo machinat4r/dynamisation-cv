@@ -10,6 +10,11 @@ body {
     background-color: #000000;
   } 
   
+  #bdiv {
+    display: flex;
+    align-items: center;
+  }
+  
   h1 {
     font-size: 40px;
     margin-top: 0;
@@ -39,7 +44,7 @@ body {
   #job {
     margin-top: -95px;
   }
-  
+
   p {
     margin-bottom: 10px;
   }
